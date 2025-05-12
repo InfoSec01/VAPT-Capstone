@@ -38,14 +38,17 @@ I performed **ethical hacking**, identified **59+ vulnerabilities**, and deliver
 
 | EternalBlue Exploit | SQL Injection | Firewall Disabled |
 |---------------------|----------------|-------------------|
-| ![](./screenshots/eternalblue_exploit.png) | ![](./screenshots/sql_injection.png) | ![](./screenshots/firewall_disabled.png) |
+| ![]<img width="542" alt="EternalBlue Exploit" src="https://github.com/user-attachments/assets/d7cf7445-f186-4adc-8b74-b728b5e39049" />
+ | ![]<img width="538" alt="SQLi and Blind SQLi" src="https://github.com/user-attachments/assets/8f7d9457-a9b3-44bf-84fa-c7c88c6d9ad5" />
+ | ![]<img width="538" alt="Firewall Malware Exploit" src="https://github.com/user-attachments/assets/baacbd7f-c436-4060-917a-4771ff816ada" />
+ |
 
 ---
 
 ## 📄 Full Report & Presentation
 
-- [📝 Final Report (PDF)](./reports/Final-VAPT-Report-Baratul-Khan.pdf)
-- [🎯 Capstone Presentation Slides (PDF)](./reports/Capstone-Presentation-Baratul-Khan.pdf)
+- [📝 Final Report (PDF)](./)
+- [🎯 Capstone Presentation Slides (PDF)](./reports/) 
 
 ---
 
