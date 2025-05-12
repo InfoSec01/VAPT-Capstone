@@ -44,8 +44,8 @@ I performed **ethical hacking**, identified **59+ vulnerabilities**, and deliver
 
 ## 📄 Full Report & Presentation
 
-- [📝 Final Report (PDF)](./)
-- [🎯 Capstone Presentation Slides (PDF)](./reports/) 
+- 🔗 [VAPT Report] (https://docs.google.com/document/d/1TrqxvopnmeIL2_9bpp-SgwPA7Vt5VD6a/edit?usp=drive_link&ouid=117741780742856738115&rtpof=true&sd=true)
+- 📽️ [VAPT Presentation](https://drive.google.com/file/d/1foTV3F6-uWhmnnk2vM1SukUaA96RMZ34/view?usp=drive_link) 
 
 ---
 
@@ -72,5 +72,4 @@ I performed **ethical hacking**, identified **59+ vulnerabilities**, and deliver
 
 📧 baratulkhan@gmail.com  
 🔗 [Resume](https://docs.google.com/document/d/11HlCNrbPuuJRXANcn1F0f2KiibaG462OjIUBNbHIjJo/edit?usp=sharing)  
-🌐 [LinkedIn (optional)](https://linkedin.com/in/yourprofile)  
-📍 Seeking IT roles in System Administration · Network Security · Technical Support · Cybersecurity Analysis
+📍 Seeking IT roles in System Administration · Network Security · Technical Support · Cybersecurity Analysis · Penetration Testing 
