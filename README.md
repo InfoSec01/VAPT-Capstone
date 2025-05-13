@@ -1,5 +1,7 @@
-
-# 🔐 Vulnerability Assessment & Penetration Testing (VAPT) Capstone Project
+<p align="center">
+  <img width="475" <img width="542" src="https://github.com/user-attachments/assets/b7c860bc-a338-4714-bb16-265803099327" alt="Project Logo">
+</p>
+<h1 align="center"># 🔐 Vulnerability Assessment & Penetration Testing (VAPT) Capstone Project</h1>
 
 **Author**: Baratul Khan  
 **Bootcamp**: Auburn University Cybersecurity Program  
