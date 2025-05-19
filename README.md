@@ -70,8 +70,9 @@ I performed **ethical hacking**, identified **59+ vulnerabilities**, and deliver
 
 ---
 
-## 📫 Contact Me
+## 🚀 Let’s Work Together
 
-📧 baratulkhan@gmail.com  
-🔗 [Resume](https://drive.google.com/file/d/10kWv4Hzdk19Q6HeNA9SiHwW-6lNy-ow8/view?usp=sharing)
-📍 Seeking IT roles in System Administration · Network Security · Technical Support · Cybersecurity Analysis · Penetration Testing 
+I bring not only technical ability, but a deep understanding of operational impact. I build systems that work—securely, efficiently, and resiliently.
+
+📬 **Contact me if your organization needs someone who can walk the talk in System, Linux, and Network Administration.**
+- baratulkhan@gmail.com
