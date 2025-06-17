@@ -12,6 +12,9 @@
 
 ## 🚀 Project Summary
 
+Target Description:
+This assessment was performed against a simulated vulnerable VM hosted on a local network, intended to mirror real-world infrastructure vulnerabilities.
+
 This project is a complete end-to-end penetration testing simulation on three targets:
 - **Zero Bank** – Corporate environment using Windows 7
 - **Application Server** – Hosting DVWA (Damn Vulnerable Web App)
